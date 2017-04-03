@@ -23,5 +23,16 @@ source: https://archive.ics.uci.edu/ml/datasets/Housing
 13. LSTAT: % lower status of the population 
 14. MEDV: Median value of owner-occupied homes in $1000's
 
-## Method
+### Method
 Data was analyzed from a .csv file using numpy and mathplotlib. 
+
+______
+
+## Imperfect Data: Seattle Police 911 Calls
+
+This dataset is all the Police responses to 9-1-1 calls within the city.
+
+source: https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp/data#column-menu
+
+I chose to work with this dataset because of the challenge faced in it's huge size, with 1.37M rows.
+
